@@ -2,9 +2,8 @@
     position: fixed;
     bottom: 10vh;
     display: flex;
-    width: 100;
+    width: 100%;
     justify-content: space-evenly;
-    justify-content: center;
 }
 
 .swipeButtons MuiIconButton-root {
